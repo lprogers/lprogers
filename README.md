@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Leeyen Rogers 👋
+Senior Product Manager | Payments, Growth, Consumer Platforms & Enterprise B2B SaaS 
 
-<!--
-**lprogers/lprogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a San Francisco–based product leader with experience building consumer and B2B platforms across fintech, payments, SaaS, marketplaces, and platform products.
 
-Here are some ideas to get you started:
+I've led products from 0→1 through scale at EverBright (NextEra Energy), Rivian, Houzz, and Jotform, with a focus on turning complex systems into simple user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most recently, I've worked across payments and billing infrastructure, customer onboarding, identity and access, internal tools, and operational platforms. Outside of work, I build and ship products myself using AI-assisted development tools.
+
+What I've built
+Mandarin Playgroup
+
+I founded and built Mandarin Playgroup, a free community helping Bay Area families give their kids more opportunities to hear and speak Mandarin naturally through play.
+
+The product includes:
+
+A production website deployed with Cloudflare Pages and GitHub CI/CD
+Automated community onboarding and communication workflows
+A calendar that aggregates relevant family, Mandarin-language, and Chinese cultural events from multiple sources
+Structured event data using Schema.org
+An llms.txt file and AI crawler configuration to make events discoverable by AI agents and publishers
+Automated event refresh and publishing pipelines
+
+The community has grown to 100+ Bay Area families.
+
+View the live site → 🌐 [Mandarin Playgroup](https://mandarinplaygroup.com)
+Explore the project on GitHub → 💻 [Mandarin Playgroup on GitHub](https://github.com/lprogers/mandarin-playgroup)
+
+Connect with me
+🌐 mandarinplaygroup.com
+💼 LinkedIn — Leeyen Rogers
+💻 GitHub — @lprogers
