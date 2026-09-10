@@ -12,12 +12,12 @@ I founded and built Mandarin Playgroup, a free community helping Bay Area famili
 
 The product includes:
 
-A production website deployed with Cloudflare Pages and GitHub CI/CD
-Automated community onboarding and communication workflows
-A calendar that aggregates relevant family, Mandarin-language, and Chinese cultural events from multiple sources
-Structured event data using Schema.org
-An llms.txt file and AI crawler configuration to make events discoverable by AI agents and publishers
-Automated event refresh and publishing pipelines
+- A production website deployed with Cloudflare Pages and GitHub CI/CD
+- Automated community onboarding and communication workflows
+- A calendar that aggregates relevant family, Mandarin-language, and Chinese cultural events from multiple sources
+- Structured event data using Schema.org
+- An llms.txt file and AI crawler configuration to make events discoverable by AI agents and publishers
+- Automated event refresh and publishing pipelines
 
 The community has grown to 100+ Bay Area families.
 
