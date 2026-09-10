@@ -25,7 +25,8 @@ View the live site → 🌐 [Mandarin Playgroup](https://mandarinplaygroup.com)
 
 Explore the project on GitHub → 💻 [Mandarin Playgroup on GitHub](https://github.com/lprogers/mandarin-playgroup)
 
-Connect with me
-🌐 mandarinplaygroup.com
-💼 LinkedIn — Leeyen Rogers
-💻 GitHub — @lprogers
+## Connect with me
+
+- 🌐 [mandarinplaygroup.com](https://mandarinplaygroup.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leeyenrogers)
+- 💻 [GitHub](https://github.com/lprogers)
