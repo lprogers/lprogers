@@ -29,4 +29,3 @@ Explore the project on GitHub → 💻 [Mandarin Playgroup on GitHub](https://gi
 
 - 🌐 [mandarinplaygroup.com](https://mandarinplaygroup.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leeyenrogers)
-- 💻 [GitHub](https://github.com/lprogers)
