@@ -5,9 +5,6 @@ I'm a San Francisco–based product leader with experience building consumer and
 
 I've led products from 0→1 through scale at EverBright (NextEra Energy), Rivian, Houzz, and Jotform, with a focus on turning complex systems into simple user experiences.
 
-What I've built
-Mandarin Playgroup
-
 I founded and built Mandarin Playgroup, a free community helping Bay Area families give their kids more opportunities to hear and speak Mandarin naturally through play.
 
 The product includes:
@@ -22,8 +19,6 @@ The product includes:
 The community has grown to 100+ Bay Area families.
 
 View the live site → 🌐 [Mandarin Playgroup](https://mandarinplaygroup.com)
-
-Explore the project on GitHub → 💻 [Mandarin Playgroup on GitHub](https://github.com/lprogers/mandarin-playgroup)
 
 ## Connect with me
 
