@@ -17,7 +17,7 @@ I built the product end-to-end using an **AI-native development workflow**, comb
 The product includes:
 
 - 🌐 A production website deployed with **Cloudflare Pages and GitHub CI/CD**
-- 👨‍👩‍👧‍👦 A community platform connecting **140+ Bay Area families**
+- 👨‍👩‍👧‍👦 A community platform connecting **160+ Bay Area families**
 - 📅 A family activity calendar aggregating **70+ events from 10+ sources**, refreshed automatically twice daily
 - 🤖 An AI-powered calendar assistant that lets parents **type or speak natural-language questions** and retrieves live event data before responding
 - 🔎 An autonomous LLM-powered event discovery agent that **discovers, evaluates, validates, and publishes** relevant Mandarin and Chinese cultural events
