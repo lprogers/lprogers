@@ -51,7 +51,7 @@ I love tackling complex product challenges by getting close to the customer, und
 **EverBright (NextEra Energy)** — Senior Technical Product Manager  
 Consumer financing platform spanning loans, leases, and PPAs
 
-**Rivian** — Product Manager  
+**Rivian** — Senior Product Manager  
 B2B digital acquisition and enterprise B2B SaaS
 
 **Houzz** — Product Manager  
