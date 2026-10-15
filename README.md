@@ -37,11 +37,11 @@ The project reflects how I approach 0→1 product development:
 
 My product experience spans:
 
-- **Payments & fintech** — payment enrollment, billing and servicing, identity verification, financing platforms, SSO, and MFA
+- **Payments & fintech** — payment infrastructure, billing and servicing, identity verification, ops platform, SSO, and MFA
 - **Growth & monetization** — acquisition, activation, conversion, onboarding, engagement, and retention
-- **Consumer platforms & operations** — self-service customer experiences, internal tools, RBAC, permissions, and workflows that connect customer-facing products with operations teams
+- **Consumer platforms & operations** — self-service customer experiences, internal tools, RBAC, permissions, workflow automation
 - **Enterprise B2B SaaS** — digital acquisition, role-based experiences, configuration infrastructure, support, and complex workflows across accounts, users, and products
-- **Marketplaces & SMB products** — two-sided marketplace experiences, SMB SaaS, headless CMS, and content platforms that enable teams to move faster without engineering dependency
+- **Marketplaces & SMB products** — two-sided marketplace experiences, B2B SaaS, headless CMS
 - **0→1 product development** — turning ambiguous customer problems into product strategy, shipped experiences, and measurable outcomes
 
 I love tackling complex product challenges by getting close to the customer, understanding what actually matters to them, and building from there.
@@ -49,13 +49,13 @@ I love tackling complex product challenges by getting close to the customer, und
 ## Selected experience
 
 **EverBright (NextEra Energy)** — Senior Technical Product Manager  
-Consumer financing platform spanning loans, leases, and PPAs
+Consumer fintech platform, payments infrastructure
 
 **Rivian** — Senior Product Manager  
-B2B digital acquisition and enterprise B2B SaaS
+Web experience & zero-to-one enterprise platform products
 
 **Houzz** — Product Manager  
-Founding product team for Houzz Pro, focused on SMB SaaS growth and conversion
+Founding product team for Houzz Pro, headless CMS platform & monetization
 
 **Jotform** — Product / Growth  
 Growth products contributing to sustained revenue expansion
