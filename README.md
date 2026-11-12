@@ -4,7 +4,7 @@
 
 I'm a San Francisco–based product leader with 10+ years of experience building and scaling products across **fintech, payments, SaaS, marketplaces, consumer platforms, and enterprise B2B**.
 
-I've led products from **0→1 through scale** at EverBright (NextEra Energy), Rivian, Houzz, and Jotform, with a focus on identifying customer pain points, simplifying complex systems, and turning product strategy into measurable outcomes.
+I've led products from **0→1 through scale** at EverBright (NextEra Energy), Rivian, Houzz, and Jotform, with expertise in discovering high-leverage opportunities and aligning teams around product strategy that advances business goals and company vision. I'm focused on identifying customer pain points and market opportunities, simplifying complex systems, and turning product strategy into measurable outcomes.
 
 I also build products independently. Most recently, I founded and built **[Mandarin Playgroup](https://mandarinplaygroup.com)** from 0→1 after looking for weekend opportunities for my son to hear and speak Mandarin with other kids and not finding what I was looking for.
 
