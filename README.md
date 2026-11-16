@@ -10,7 +10,7 @@ I also build products independently. Most recently, I founded and built **[Manda
 
 ## Mandarin Playgroup
 
-**A community platform connecting 140+ Bay Area families so kids can hear and use Mandarin naturally through play.**
+**A community platform connecting 200+ Bay Area families so kids can hear and use Mandarin naturally through play.**
 
 I built the product end-to-end using an **AI-native development workflow**, combining customer discovery, product strategy, lightweight infrastructure, automation, and AI-powered product capabilities.
 
